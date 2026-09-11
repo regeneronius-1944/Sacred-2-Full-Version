@@ -238,3 +238,6 @@ This repository serves as the official landing page for Sacred 2. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Sacred 2 today!**
+
+---
+**Last updated:** 2026-09-11 21:24:14 UTC
