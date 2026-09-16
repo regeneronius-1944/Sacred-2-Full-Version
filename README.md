@@ -240,4 +240,4 @@ This repository serves as the official landing page for Sacred 2. The software i
 **Get the most recent version of Sacred 2 today!**
 
 ---
-**Last updated:** 2026-09-15 23:15:01 UTC
+**Last updated:** 2026-09-16 02:00:03 UTC
